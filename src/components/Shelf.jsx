@@ -60,7 +60,7 @@ const Shelf = () => {
           )}
           onClick={handleCake}
         >
-          Buy cake
+          Buy Cake
         </button>
         <button
           className={cn(
@@ -69,7 +69,7 @@ const Shelf = () => {
           )}
           onClick={handleIcecream}
         >
-          Buy icecream
+          Buy Ice Cream
         </button>
         <button
           className={cn(
